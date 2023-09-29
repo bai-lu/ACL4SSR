@@ -5,3 +5,4 @@ DOMAIN-SUFFIX,lixiangoa.com
 DOMAIN-SUFFIX,it.chehejia.com
 DOMAIN-SUFFIX,it.chehejia.com:8080
 DOMAIN-SUFFIX,chj.cloud
+IP-CIDR,192.168.7.0/24,no-resolve
